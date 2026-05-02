@@ -1,0 +1,19 @@
+{
+    "name": "FrankGame.Editor",
+    "rootNamespace": "FrankGame",
+    "references": [
+        "GUID:33f3ab5e1a43cc54cb2ef3b066dd68c5",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
